@@ -7,4 +7,4 @@ This is a complete documentation of all the projects that I will attempt or have
 # Courses <br>
 1. [**Api and Microservices**](https://github.com/jhamadhav/fcc/tree/master/api_and_microservices)
 
-2.  [**Respnsive web design**](https://github.com/jhamadhav/fcc/tree/master/responsive_web_design)
+2.  [**Respnsive web design**](https://github.com/jhamadhav/fcc/tree/master/Responsive%20Web%20Design)
